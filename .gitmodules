@@ -1,0 +1,4 @@
+[submodule "fs/exfat"]
+	path = fs/exfat
+	url = https://github.com/MotorolaMobilityLLC/vendor-lenovo-exfat.git
+	branch = master
